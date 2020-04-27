@@ -6,3 +6,4 @@ create a new branch.
 git branch is easy & simple
 git is good
 switch to a new branch 'feature1'
+create and switch to dev
