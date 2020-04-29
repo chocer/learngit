@@ -8,3 +8,4 @@ git is good
 switch to a new branch 'feature1'
 create and switch to dev
 learn bug branch
+fix bug 001
